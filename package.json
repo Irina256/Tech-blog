@@ -1,5 +1,5 @@
 {
-  "name": "Tech-blog",
+  "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -9,15 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Irina256/Tech-blog.git"
+    "url": "git+https://github.com/ajcuddeback/tech-blog.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Irina256/Tech-blog/issues"
+    "url": "https://github.com/ajcuddeback/tech-blog/issues"
   },
-  "homepage": "https://github.com/Irina256/Tech-blog#readme",
+  "homepage": "https://github.com/ajcuddeback/tech-blog#readme",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.1.0",

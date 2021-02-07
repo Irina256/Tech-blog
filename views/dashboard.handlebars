@@ -1,0 +1,21 @@
+<article class="dashboard-wrapper">
+
+    {{#if posts.length}}
+    <section>
+        <h2 class="dashboard-title">Your posts</h2>
+        <ol>
+            {{#each posts as |post|}}
+            <li>
+                {{> post-info post}}
+                <div class="comment-wrapper">
+                    <a href="/dashboard/add" class="add-post-btn">Add a post|</a>
+                    <a href="/dashboard/edit/{{post.id}}" class="edit-post-btn">Edit Post</a>
+                </div>
+            </li>
+            {{/each}}
+        </ol>
+    </section>
+    {{/if}}
+
+
+</article>
