@@ -8,7 +8,7 @@
             <li>
                 {{> post-info post}}
                 <div class="comment-wrapper">
-                    <a href="/dashboard/add" class="add-post-btn">Add a post|</a>
+
                     <a href="/dashboard/edit/{{post.id}}" class="edit-post-btn">Edit Post</a>
                 </div>
             </li>
@@ -17,5 +17,6 @@
     </section>
     {{/if}}
 
+    <a href="/dashboard/add" class="add-post-btn">Add a post </a>
 
 </article>
