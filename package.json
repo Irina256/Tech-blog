@@ -7,13 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/irina256/tech-blog.git"
-  },
- 
-  
-  "homepage": "https://github.com/irina256/tech-blog#readme",
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.0.0",
     "connect-session-sequelize": "^7.1.0",
