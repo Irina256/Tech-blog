@@ -8,15 +8,15 @@
 
 ## Purpose
 
-- Simple tech blog where users and create an acc and create, edit, and delete posts
+- tech blog is an app where users can create an account and create, edit, and delete posts
 
 ## Features
 
-- Clean user interface
-- Easy to use website
-- Password encryption
+- Ability to create posts
+- Options to comment on posts
+- Editing and deletinng posts
 
 ## Website
 
-[Deployed Tech Blog](https://thawing-ocean-05215.herokuapp.com/)
-![Tech Blog](images/tech-blog.png)
+[Deployed app]()
+![Tech-blog](images/tech-blog.png)
